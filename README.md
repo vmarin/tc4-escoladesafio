@@ -35,7 +35,7 @@ Este documento detalha a estrutura, configuração e uso do aplicativo desenvolv
 ### Clone o repositório:
 
 ```bash
-git clone *link*
+git clone https://github.com/vmarin/tc4-escoladesafio
 ```
 
 ### Instale as dependências:
